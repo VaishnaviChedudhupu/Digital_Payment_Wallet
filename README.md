@@ -1,8 +1,30 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<html>
+  <h1>
+    Digital Payment Wallet
+  </h1>
+</html>
+<body>
+  <p>
+    <h2>Digital Payment Wallet - Frontend</h2>
+This repository contains the frontend of the Digital Payment Wallet application, built using React.js. The application offers a seamless and responsive user interface for managing digital payments and wallet features.
+  </p>
+  <h2>Features:</h2>
+  <p>
+   <ul>
+     User Authentication Interface: Intuitive forms for login and registration.
+     Dashboard: Displays wallet balance, recent transactions, and account details.
+     Transactions Management: Easy-to-use interface for transferring money and viewing transaction history.
+    Responsive Design: Fully optimized for desktop and mobile devices.
+    Dynamic UI Updates: React state management ensures smooth, real-time updates to the interface.</ul> 
+  </p>
+<h2>
+  Technologies Used:
+</h2>
+  <p>
+    <ul>
+      Framework: React.js
+      Styling: CSS, Bootstrap/Material-UI
+      API Integration: Axios or Fetch for connecting with the backend services
+    </ul>
+  </p>
+</body>
