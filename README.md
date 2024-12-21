@@ -11,20 +11,20 @@ This repository contains the frontend of the Digital Payment Wallet application,
   <h2>Features:</h2>
   <p>
    <ul>
-     User Authentication Interface: Intuitive forms for login and registration.
-     Dashboard: Displays wallet balance, recent transactions, and account details.
-     Transactions Management: Easy-to-use interface for transferring money and viewing transaction history.
-    Responsive Design: Fully optimized for desktop and mobile devices.
-    Dynamic UI Updates: React state management ensures smooth, real-time updates to the interface.</ul> 
+     User Authentication Interface: Intuitive forms for login and registration. <br>
+     Dashboard: Displays wallet balance, recent transactions, and account details.<br>
+    Transactions Management: Easy-to-use interface for transferring money and viewing transaction history.<br>
+    Responsive Design: Fully optimized for desktop and mobile devices.<br>
+    Dynamic UI Updates: React state management ensures smooth, real-time updates to the interface.<br></ul> 
   </p>
 <h2>
   Technologies Used:
 </h2>
-  <p>
+ <p> 
     <ul>
-      Framework: React.js
-      Styling: CSS, Bootstrap/Material-UI
-      API Integration: Axios or Fetch for connecting with the backend services
+      Framework: React.js<br>
+      Styling: CSS, Bootstrap/Material-UI<br>
+      API Integration: Axios or Fetch for connecting with the backend services<br>
     </ul>
-  </p>
+</p>
 </body>
